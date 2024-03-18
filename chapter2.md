@@ -50,5 +50,36 @@ COBIT(Control ojbectives for information and related technologies)
 5- Separating governance from management.
 
 
+NIST- Risk Management Framework
+
+1- Prepare
+2- Categorize
+3- Select
+4- Implement
+5- Assess
+6- Authorize
+7- Monitor
+
+ISO/IEC 27017 
+
+Provides guidelines for implementing information security controls
+for cloud services.
+
+***Compliance*** 
+Adherence to the governance.
+
+GPDR - General Data Protection Regulation
+
+GLBA- Financial services regulation.
+
+HIPAA: Health information regulation
+
+HITECH: Health information regulation
+
+PCI-DSS: Credit card security standard.
+
+SOX: FInancial records and accounting regulation.
+
+
 
 
